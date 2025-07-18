@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 # Hi there 👋, I'm Paola Giraldo  
 
 **Senior Backend Developer | Java | Spring Boot | Microservices | AWS | Kubernetes**  
